@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openslide-python
+scikit-image
+pillow
+numpy
+python-multipart
+scikit-learn 
